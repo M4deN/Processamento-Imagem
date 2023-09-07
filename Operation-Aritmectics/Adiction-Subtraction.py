@@ -42,11 +42,13 @@ def main():
     print(img1)
     print('==IMG2==')
     print(img2)
-    img3 = cv2.addWeighted(img1,0.3, img2,0.6, 0 )
-    saveImage(img3)
+    #subtração entre imagens
+    img3 = cv2.subtract(img1, img2)
+    #diferença entre imagens
+    #img3 = cv2.absdiff(img1, img2)
     print('==IMG3==')
     print(img3)
-    showImages(img1, img2, img3, 'Adição Ponderada de Imagens')
+    showImages(img1, img2, img3, 'Subtração de Imagens')
 
 if __name__ == '__main__':
     main()
