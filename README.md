@@ -29,5 +29,9 @@ Neste repositório, você encontrará implementações em Python para diversas o
 - Arquivo: `absdiff.py`
 - Resultado:![Resultado absdiff](imagens/img-absdiff.jpg)
 
+### Multiplicação (multiply)
+- Descrição: Esta operação calcula a multiplicação da imagem com base em valores RGBA.
+- Arquivo: `absdiff.py`
+- Resultado:![Resultado absdiff](imagens/img-multiply.jpg)
 ---
 *Nota: Certifique-se de ter o conda e miniconda configurado corretamente para executar esses scripts.*
