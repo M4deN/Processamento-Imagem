@@ -24,4 +24,11 @@ Neste repositório, você encontrará implementações em Python para diversas o
 ### Multiplicação (multiply)
 - Descrição: Esta operação calcula a multiplicação da imagem com base em valores RGBA.
 - Arquivo: `multiply.py`
----
+
+## Filtragem
+
+### Filtragem (filtering)
+- Descrição: Esta operação realiza filtros pré definidos para uma imagem.
+- Arquivo: `filtering.py`
+
+  ---
