@@ -31,4 +31,8 @@ Neste repositório, você encontrará implementações em Python para diversas o
 - Descrição: Esta operação realiza filtros pré definidos para uma imagem.
 - Arquivo: `filtering.py`
 
+### Histograma (histogram)
+- Descrição: Histograma gerado a partir de uma imagem com filtro aplicado.
+- Arquivo: `filtering.py`
+- Resultado: ![Resultado histogram](imagens/histogram.png)
   ---
