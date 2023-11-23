@@ -36,3 +36,6 @@ Neste repositório, você encontrará implementações em Python para diversas o
 - Arquivo: `filtering.py`
 
   ---
+  ## Segmentação (segmentation)
+- Descrição: Esta operação realiza segmentação de bordas para uma imagem.
+- Arquivo: `segmentation.py`
